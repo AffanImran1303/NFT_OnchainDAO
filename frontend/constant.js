@@ -2,7 +2,7 @@ export const CryptoDevsNFTAddress="0xB82867Ba44083C42a11b6f9d9A0adC627E26C206";
 export const CryptoDevsDAOAddress="0x37e5C618076dFC0142b8df034332A9473852C2bf";
 export const FakeNFTmarketplace="0xD6fC32ba6f5D23e2BC32480eF4f0B2E0ff0331AB";
 
-export const CryptoDevsNFTAbi=[
+export const CryptoDevsNFTABI=[
     {
       "inputs": [],
       "stateMutability": "nonpayable",
@@ -526,7 +526,7 @@ export const CryptoDevsNFTAbi=[
       "type": "function"
     }
   ];
-export const CryptoDevsDAOAbi=[
+export const CryptoDevsDAOABI=[
     {
       "inputs": [
         {
